@@ -9,7 +9,7 @@ export default function Home() {
           className=""
           src="/urso.png"
           alt="Next.js Logo"
-          width={480}
+          width={400}
           height={50}
           priority
         />
